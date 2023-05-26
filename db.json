@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "title": "laptop",
+      "brand": "Samsung",
+      "price": 1200,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "mobile",
+      "brand": "Sony",
+      "price": 1000
+    },
+    {
+      "title": "mobile",
+      "brand": "Samsung",
+      "price": 1400,
+      "id": 5
+    },
+    {
+      "title": "mobile",
+      "brand": "Samsung",
+      "price": 1400,
+      "id": 6
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 9
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 11
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 12
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 13
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 14
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 15
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 16
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 17
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 18
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 19
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 20
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 21
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 22
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 23
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 24
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 25
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 26
+    },
+    {
+      "title": "mobile",
+      "brand": "lg",
+      "price": 1050,
+      "id": 27
+    }
+  ]
+}
